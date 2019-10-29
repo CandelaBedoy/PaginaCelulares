@@ -1,0 +1,45 @@
+body{ 
+    font-family: Arial;
+   color: black;
+   background: skyblue}
+   header{
+       background: greenyellow;
+       margin: 20px;
+   }
+   h1{
+       font-size: 50px;
+       color: rgb(20, 0, 77);
+       text-align: center;
+       padding: 20px 0;
+   }
+   nav{
+       font-size: 30px;
+       padding: 5px 20px;}
+   .nav-enlace{
+       display: inline-block;
+       background: rgb(119, 116, 155);
+       color:rgb(4, 4, 82);
+       padding: 2px 30px;
+       text-decoration:none; }
+   .nav-enlace:hover{
+   background: white; }
+   h2 {
+       color:rgb(9, 3, 83);
+       font-size: 35px;
+       }
+       h3{
+           font-size: 30px;
+       }
+   p{color:rgb(0, 0, 0);
+   font-size: 20px;
+   margin: auto;}
+   .columna{
+   font-size: 25px;
+   border-radius: 20px;
+   }
+     
+       
+   
+   article{
+       width: 80%;
+       background: rgb(153, 212, 247);
